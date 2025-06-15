@@ -66,6 +66,8 @@ From building smart models to designing interactive web interfaces, I enjoy turn
 
 ## 💭 Daily Inspiration
 
-> ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true&category=programming)
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?theme=dark&border=true&category=programming&hideBorder=false&font=Fira+Code" width="350" />
+</p>
 
 ---
