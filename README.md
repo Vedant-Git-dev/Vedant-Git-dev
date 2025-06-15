@@ -67,9 +67,8 @@ From building smart models to designing interactive web interfaces, I enjoy turn
 <h2 align="center">📅 Daily Quote</h2>
 
 <p align="center">
-  <a href="https://github.com/Vedant-Git-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=%22Programs+must+be+written+for+people+to+read%2C+and+only+incidentally+for+machines+to+execute.%22+%E2%80%94+Harold+Abelson" alt="Daily Tech Quote" />
-  </a>
+  <em style="font-size: 20px;">"Programs must be written for people to read, and only incidentally for machines to execute."</em><br>
+  <sub>— Harold Abelson</sub>
 </p>
 
 ---
