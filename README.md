@@ -67,12 +67,12 @@ From building smart models to designing interactive web interfaces, I enjoy turn
 ### 📅 Daily Quote
 
 <p align="center">
-  <em>"The best way to predict the future is to invent it."</em><br>
-  — Alan Kay
+  <em>"Build. Learn. Repeat."</em><br>
+  — Vedant
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hideBorder=true&quote=Dream%20big%2C%20start%20small." alt="Daily Quote" />
 </p>
 
 ---
