@@ -64,17 +64,16 @@ From building smart models to designing interactive web interfaces, I enjoy turn
 
 ---
 
-## 💭 Daily Inspiration
+ 💭 Daily Inspiration
 
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false&font=Fira+Code" width="400" />
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote"/>
+</div>
 
 ---
 
 <p align="center">
   ❤️ From <a href="https://github.com/Vedant-Git-dev">Vedant-Git-dev</a>
 </p>
-
 
 ---
