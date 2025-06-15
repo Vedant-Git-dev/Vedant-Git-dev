@@ -64,10 +64,8 @@ From building smart models to designing interactive web interfaces, I enjoy turn
 
 ---
 
-<h2 align="center">💭 Daily Inspiration</h2>
+## 💭 Daily Inspiration
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true&category=programming" alt="Daily Programming Quote" width="500"/>
-</p>
+> ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true&category=programming)
 
 ---
