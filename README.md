@@ -73,7 +73,7 @@ From building smart models to designing interactive web interfaces, I enjoy turn
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/Vedant-Git-dev">Vedant-Git-dev</a>
+  ❤️ From <a href="https://github.com/Vedant-Git-dev">Vedant-Git-dev</a>
 </p>
 
 
