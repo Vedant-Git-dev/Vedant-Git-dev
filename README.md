@@ -70,7 +70,7 @@ From building smart models to designing interactive web interfaces, I enjoy turn
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false&font=Fira+Code" width="400" />
 </p>
 
-<p align="left">
+<p align="center">
   ⭐ From <a href="https://github.com/Vedant-Git-dev">Vedant-Git-dev</a>
 </p>
 
