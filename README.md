@@ -64,15 +64,10 @@ From building smart models to designing interactive web interfaces, I enjoy turn
 
 ---
 
-### 📅 Daily Quote
+<h2 align="center">📅 Daily Quote</h2>
 
 <p align="center">
-  <em>"Simplicity is the soul of efficiency."</em><br>
-  — Austin Freeman
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hideBorder=true" alt="Daily Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&hideBorder=true" alt="Daily Quote" width="450"/>
 </p>
 
 ---
