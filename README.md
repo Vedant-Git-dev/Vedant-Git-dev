@@ -69,7 +69,7 @@ From building smart models to designing interactive web interfaces, I enjoy turn
 <table>
   <tr>
     <td>
-      <img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&category=programming" width="350" />
+      <img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&font=Fira+Code&hideBorder=false" width="350" />
     </td>
   </tr>
 </table>
