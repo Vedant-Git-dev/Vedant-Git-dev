@@ -63,3 +63,16 @@ From building smart models to designing interactive web interfaces, I enjoy turn
 </p>
 
 ---
+
+### 📅 Daily Quote
+
+<p align="center">
+  <em>"The best way to predict the future is to invent it."</em><br>
+  — Alan Kay
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
+
+---
