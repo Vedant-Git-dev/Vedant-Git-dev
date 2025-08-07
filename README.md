@@ -77,3 +77,5 @@ From building smart models to designing interactive web interfaces, I enjoy turn
 </p>
 
 ---
+
+![](https://komarev.com/ghpvc/?username=Vedant-Git-dev)
