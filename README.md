@@ -121,13 +121,17 @@ Ensuring models don’t just work *locally* but run reliably in real scenarios:
 <div align="center">
 
 <a href="https://github.com/Vedant-Git-dev/PhiCraft">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedant-Git-dev&repo=PhiCraft&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vedant-Git-dev&repo=PhiCraft&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" />
 </a>
+
+<br><br>
+
 <a href="https://github.com/Vedant-Git-dev/Heart-Disease-Predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedant-Git-dev&repo=Heart-Disease-Predictor&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vedant-Git-dev&repo=Heart-Disease-Predictor&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" />
 </a>
 
 </div>
+
 
 ---
 
