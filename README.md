@@ -196,8 +196,9 @@ I'm open to exciting opportunities in:
 </div>
 
 ---
-
+<p align="center">
 **Building intelligent systems, one algorithm at a time.**
+</p>
 
 <div align="center">
   
