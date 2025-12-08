@@ -1,6 +1,10 @@
+<div align="center">
+
 # HI! I'm Vedant
 
 ## AI & Machine Learning Innovator | Crafting Intelligent Solutions
+
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Deep+Learning+Explorer;Building+the+Future+with+AI;Transforming+Ideas+into+Reality" alt="Typing SVG" />
