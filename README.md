@@ -139,7 +139,7 @@ Ensuring models don’t just work *locally* but run reliably in real scenarios:
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 I’m focusing this year on sharpening my engineering mindset and pushing myself beyond comfort-zone projects.  
 Here’s what I’m actively working toward:
