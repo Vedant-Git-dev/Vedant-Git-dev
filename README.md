@@ -134,6 +134,13 @@ Ensuring models don’t just work *locally* but run reliably in real scenarios:
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vedant-Git-dev&repo=Heart-Disease-Predictor&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" />
 </a>
 
+<br><br>
+
+<a href="https://github.com/Vedant-Git-dev/Rag-Optimizer">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vedant-Git-dev&repo=Rag-Optimizer&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" />
+</a>
+
+
 </div>
 
 
