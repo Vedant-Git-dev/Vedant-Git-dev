@@ -118,7 +118,7 @@ Languages, frameworks and tools that show up across my repositories and day to d
 
 <br>
 
-## How consistently I show up
+## Contribution graph
 
 I care more about steady progress, and this graph is usually a fair reflection of that.
 
