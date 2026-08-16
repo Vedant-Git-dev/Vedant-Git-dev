@@ -65,15 +65,15 @@ Languages, frameworks and tools that show up across my repositories and day to d
 <br>
 
 <b>Languages</b>
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=D4AF37" />
 
-<br>
+<br><br>
 
 <b>AI &amp; ML Frameworks</b>
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/TensorFlow-0D0D0D?style=for-the-badge&logo=tensorflow&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/PyTorch-0D0D0D?style=for-the-badge&logo=pytorch&logoColor=D4AF37" />
@@ -84,36 +84,35 @@ Languages, frameworks and tools that show up across my repositories and day to d
 <img src="https://img.shields.io/badge/MCP-0D0D0D?style=for-the-badge&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Sentence%20Transformers-0D0D0D?style=for-the-badge&logoColor=D4AF37" />
 
-<br>
+<br><br>
 
 <b>Data Science &amp; Visualization</b>
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/NumPy-0D0D0D?style=for-the-badge&logo=numpy&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Matplotlib-0D0D0D?style=for-the-badge&logo=plotly&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Seaborn-0D0D0D?style=for-the-badge&logoColor=D4AF37" />
 
-<br>
+<br><br>
 
 <b>Web &amp; Application Frameworks</b>
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-0D0D0D?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Streamlit-0D0D0D?style=for-the-badge&logo=streamlit&logoColor=D4AF37" />
 
-<br>
+<br><br>
 
 <b>DevOps &amp; Tools</b>
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Google%20Colab-0D0D0D?style=for-the-badge&logo=googlecolab&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Jupyter-0D0D0D?style=for-the-badge&logo=jupyter&logoColor=D4AF37" />
-
 
 </div>
 
