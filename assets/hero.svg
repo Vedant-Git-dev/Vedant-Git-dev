@@ -1,0 +1,48 @@
+<svg width="920" height="190" viewBox="0 0 920 190" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="55%" stop-color="#141008"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+
+    <linearGradient id="gold" x1="-40%" y1="0%" x2="60%" y2="0%">
+      <stop offset="0%" stop-color="#5c4914"/>
+      <stop offset="45%" stop-color="#f2c14e"/>
+      <stop offset="55%" stop-color="#f2c14e"/>
+      <stop offset="100%" stop-color="#5c4914"/>
+      <animate attributeName="x1" values="-40%;140%;-40%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="60%;240%;60%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="15%" cy="25%" r="70%">
+      <stop offset="0%" stop-color="#f2c14e" stop-opacity="0.14">
+        <animate attributeName="stop-opacity" values="0.10;0.26;0.10" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#f2c14e" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="avatarRing" x1="0%" y1="0%" x2="100%" y2="100%" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#f2c14e"/>
+      <stop offset="100%" stop-color="#8a6d1f"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="918" height="188" rx="18" fill="url(#bg)" stroke="url(#gold)" stroke-width="1.6"/>
+  <rect x="1" y="1" width="918" height="188" rx="18" fill="url(#glow)"/>
+
+  <!-- avatar -->
+  <circle cx="118" cy="95" r="61" fill="url(#avatarRing)"/>
+  <circle cx="118" cy="95" r="57" fill="#0d0d0d"/>
+  <text x="118" y="110" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700" fill="#f2c14e">VP</text>
+
+  <!-- name block -->
+  <text x="212" y="60" font-family="Georgia, 'Times New Roman', serif" font-size="14" letter-spacing="2" fill="#a58a3f">@VEDANT-GIT-DEV</text>
+  <text x="212" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="700" fill="#f2ead2">Vedant Pardeshi</text>
+
+  <text x="212" y="126" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#b8ab8a">
+    <tspan x="212" dy="0">Diploma student in Artificial Intelligence and Machine Learning.</tspan>
+    <tspan x="212" dy="20">Python developer building agentic systems and LLM powered pipelines.</tspan>
+  </text>
+</svg>

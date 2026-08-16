@@ -1,243 +1,140 @@
 <div align="center">
 
-# HI! I'm Vedant
+<img src="assets/hero.svg" alt="Vedant Pardeshi" width="100%" />
 
-## AI/ML Student | Multi-Agent Systems | Computer Vision | LLMs
+<br><br>
 
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=720&lines=AI%2FML+Engineer+in+Progress;Building+Production-Ready+AI;Multi-Agent+Systems+%7C+Machine+Learning;Always+Learning.+Always+Building." alt="Typing SVG" />
-</div>
-
----
-
-## About Me
-
-I'm an AI/ML student focused on building intelligent systems that combine machine learning, large language models and multi-agent architectures to solve real-world problems.
-I get pretty fascinated by the way basic math rules can grow into big models. Those models end up handling things like images, text, sound, and even figuring out what people really mean.  
-
-I spend most of my time experimenting with:
-
-- **How models behave** when pushed beyond standard textbook tasks  
-- **Designing clean ML pipelines** that feel reliable, not hacky  
-- **Building agents** that can operate inside games and real-world apps  
-- **Studying why models fail**, not just when they succeed
-
-The idea that fires me up the most involves a small chunk of code. If you structure it right, that code turns into something useful, interactive, and actually intelligent.  
-
-When I step away from ML work, I still like poking around with different tools. I automate workflows where I can. I try to make systems communicate better with humans overall.  
-
-If you happen to be tackling something cool in AI, I would really like to connect with you.
-
----
-
-## Expertise
-
-I enjoy building intelligent systems end-to-end, from understanding the raw data to deploying models that actually solve problems.  
-Over time, I have developed a workflow that balances experimentation with clean engineering.
-
-### Machine Learning
-I work with classical and modern ML techniques, focusing on clarity and reliability:
-- Classification & regression models  
-- Feature engineering & data preprocessing  
-- Evaluation, tuning, and error analysis  
-
-### Deep Learning
-I build neural systems that understand patterns in images, text, and sequential data:
-- CNNs for vision tasks  
-- Transformer-based architectures  
-- Training loop design, augmentation, optimization strategies  
-
-### Computer Vision
-Turning visual information into structured insights:
-- Image classification & recognition  
-- Segmentation and mask-based analysis  
-- Applied use in healthcare and automation projects  
-
-### Natural Language Processing
-Making models understand and generate meaningful text:
-- LLM prompting & fine-tuning  
-- Sentiment analysis, summarization  
-- Agent-style behavior and instruction following  
-
-### MLOps & Deployment
-Ensuring models don’t just work *locally* but run reliably in real scenarios:
-- FastAPI-based APIs  
-- Model packaging & environment management  
-- Experiment tracking, logging, and reproducibility  
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-### AI/ML Frameworks
-
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-
-### Data Science & Visualization
-
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
-
-### Web & Application Frameworks
-
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-
-### DevOps & Tools
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/Vedant-Git-dev?style=for-the-badge&label=FOLLOWERS&color=D4AF37&labelColor=0D0D0D" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=Vedant-Git-dev&label=PROFILE%20VIEWS&color=D4AF37&labelColor=0D0D0D&style=for-the-badge&base=0" alt="Profile views" />
 
 </div>
 
----
+<br>
 
-## Featured Projects
+I like building AI and machine learning projects that solve real problems and help me learn by doing.
+Currently exploring agentic AI, automation and open source while constantly trying to build something better.
 
-<div align="center">
-  
-<table>
-<tr>
-<td width="50%">
+<br>
 
-<a href="https://github.com/Vedant-Git-dev/PhiCraft">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vedant-Git-dev&repo=PhiCraft&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
+## Projects worth a closer look
 
-</td>
-
-<td width="50%">
-
-<a href="https://github.com/Vedant-Git-dev/GeoVision">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vedant-Git-dev&repo=GeoVision&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<a href="https://github.com/Vedant-Git-dev/AdaptiveEvidenceDistillationEngine">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vedant-Git-dev&repo=AdaptiveEvidenceDistillationEngine&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</td>
-
-<td width="50%">
-
-<a href="https://github.com/Vedant-Git-dev/MultiAgentDebugger">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vedant-Git-dev&repo=MultiAgentDebugger&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
----
-
-## 2026 Goals
-
-I’m focusing this year on sharpening my engineering mindset and pushing myself beyond comfort-zone projects.  
-Here’s what I’m actively working toward:
-
-### 1. Build Smarter, More Autonomous AI Systems
-Move beyond static models and create agents that can reason, plan, and act with real context
-
-### 2. Ship Real, Production-Ready ML Products
-Build production-ready ML systems with APIs, dashboards and deployable pipelines.  
-
-### 3. Dive Deeper Into Model Behavior
-Understand *why* models make decisions, not just how to train them. Focus on interpretability, debugging and improving failure cases.
-
-### 4. Strengthen My Foundations
-
-Deepen my understanding of optimization, data structures and system design to build more efficient, scalable AI/ML systems. 
-
-### 5. Contribute Back to the AI Community
-Open-source work, clean repositories, readable implementations and sharing real learnings through writeups or tutorials.
-
-### 6. Collaborate on Something Meaningful
-Join teams or individuals pushing boundaries in AI research, applied ML or product-focused development.
-
-This year is all about depth, consistency and building things that actually matter.
-
-
----
-
-## Let's Collaborate
-
-I'm open to exciting opportunities in:
-
-- AI/ML research and novel architectures
-- Computer vision and NLP projects
-- MLOps and scalable model deployment
-- Open-source contributions and hackathons
+A few things I've built that say more about how I think:
 
 <br>
 
 <div align="center">
 
-**Reach out via** [LinkedIn](https://www.linkedin.com/in/vedant-pardeshi) or [Email](mailto:vedantpardeshi26@gmail.com)
+<a href="https://github.com/Vedant-Git-dev/ArchForge">
+<img src="assets/repo1.svg" alt="ArchForge" width="640" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Vedant-Git-dev/AdaptiveEvidenceDistillationEngine">
+<img src="assets/repo2.svg" alt="AdaptiveEvidenceDistillationEngine" width="640" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Vedant-Git-dev/RadiantAI">
+<img src="assets/repo3.svg" alt="RadiantAI" width="640" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Vedant-Git-dev/MultiAgentDebugger">
+<img src="assets/repo4.svg" alt="MultiAgentDebugger" width="640" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Vedant-Git-dev/PhiCraft">
+<img src="assets/repo5.svg" alt="PhiCraft" width="640" />
+</a>
 
 </div>
 
----
+<br>
 
-## Inspiration
+## Things I work with
+
+Languages, frameworks and tools that show up across my repositories and day to day work.
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br>
+
+<b>Languages</b>
+<br>
+
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=D4AF37" />
+
+<br>
+
+<b>AI &amp; ML Frameworks</b>
+<br>
+
+<img src="https://img.shields.io/badge/TensorFlow-0D0D0D?style=for-the-badge&logo=tensorflow&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/PyTorch-0D0D0D?style=for-the-badge&logo=pytorch&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Hugging%20Face-0D0D0D?style=for-the-badge&logo=huggingface&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Scikit--learn-0D0D0D?style=for-the-badge&logo=scikitlearn&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Keras-0D0D0D?style=for-the-badge&logo=keras&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/LangChain-0D0D0D?style=for-the-badge&logo=langchain&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/MCP-0D0D0D?style=for-the-badge&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Sentence%20Transformers-0D0D0D?style=for-the-badge&logoColor=D4AF37" />
+
+<br>
+
+<b>Data Science &amp; Visualization</b>
+<br>
+
+<img src="https://img.shields.io/badge/NumPy-0D0D0D?style=for-the-badge&logo=numpy&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Matplotlib-0D0D0D?style=for-the-badge&logo=plotly&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Seaborn-0D0D0D?style=for-the-badge&logoColor=D4AF37" />
+
+<br>
+
+<b>Web &amp; Application Frameworks</b>
+<br>
+
+<img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-0D0D0D?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Streamlit-0D0D0D?style=for-the-badge&logo=streamlit&logoColor=D4AF37" />
+
+<br>
+
+<b>DevOps &amp; Tools</b>
+<br>
+
+<img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Google%20Colab-0D0D0D?style=for-the-badge&logo=googlecolab&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Jupyter-0D0D0D?style=for-the-badge&logo=jupyter&logoColor=D4AF37" />
+
+
 </div>
 
----
+<br>
+
+## How consistently I show up
+
+I care more about steady progress, and this graph is usually a fair reflection of that.
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant-Git-dev&theme=tokyo-night&hide_border=true" />
-  
-  </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant-Git-dev&bg_color=0D0D0D&color=D4AF37&line=D4AF37&point=F2C14E&area=true&area_color=D4AF37&hide_border=true" />
 
----
-<p align="center">
-<strong>Building intelligent systems, one algorithm at a time.</strong>
-</p>
-
-<div align="center">
-  
-  [GitHub](https://github.com/Vedant-Git-dev) | [LinkedIn](https://www.linkedin.com/in/vedant-pardeshi)
-  
 </div>
 
----
+<br>
+
+<div align="center">
+<sub>Thanks for reading this far. If any of this overlaps with something you're working on, feel free to reach out.</sub>
+
+<br><br>
+
+</div>
 
